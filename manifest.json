@@ -1,0 +1,12 @@
+{
+    "runtime": {
+        "majorVersion": "8"
+    },
+    "command": "java -jar geo-chart-pop-1.0-SNAPSHOT-0.0.1-SNAPSHOT-project.jar",
+    "release": {
+        "build": "150520.1154",
+        "commit": "d8c2596364d9584050461",
+        "version": "1.0"
+    },
+    "notes": "Map Chart Dashboard Application using Spring Boot and Angular 4"
+} 
